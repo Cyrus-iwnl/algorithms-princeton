@@ -1,6 +1,9 @@
-<https://algs4.cs.princeton.edu/home/>
 
-**Programming Assignments**
++ **Every lab is 100/100, but code still needs improvement**
+
++ course website: https://algs4.cs.princeton.edu/home/
+
+**Lab Introduction**
 
 |  No |         Name         |      Algorithm/Data Structure      |
 | :-: | :------------------: | :--------------------------------: |
@@ -14,5 +17,3 @@
 |  8  | baseball elimination |          max flow/min cut          |
 |  9  |        boggle        |                trie                |
 |  10 |    Burrows-Wheeler   |        compression (huffman)       |
-
-+ **All PA is 100/100, but code still needs improvement**
