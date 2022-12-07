@@ -1,7 +1,7 @@
++ **Every lab is 100/100, but code still needs improvement.**
++ **If you have any suggestions, welcome to make PR.**
 
-+ **Every lab is 100/100, but code still needs improvement**
-
-+ course website: https://algs4.cs.princeton.edu/home/
+**course website:** https://algs4.cs.princeton.edu/home/
 
 **Lab Introduction**
 
